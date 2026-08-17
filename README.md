@@ -87,14 +87,12 @@ CI/CD Pipelines  ·  Docker & Cloud     ·  GenAI & AI Agents ·  MCP Tools
 | Project | Description | Link |
 |---------|-------------|------|
 | **flowchain-ai** | Agentic AI platform for supply chain workflows | [Repo](https://github.com/webkhushboo/flowchain-ai) |
-| **india-itr-copilot** | AI copilot for ITR-related workflows | [Repo](https://github.com/webkhushboo/india-itr-copilot) |
 | **interview-ready** | Interview prep platform for DSA & System Design | [Repo](https://github.com/webkhushboo/interview-ready) |
 | **RAG-project** | Retrieval-Augmented Generation experiments | [Repo](https://github.com/webkhushboo/RAG-project) |
 | **agentic-ai-bootcamp** | Agentic AI learning and bootcamp materials | [Repo](https://github.com/webkhushboo/agentic-ai-bootcamp) |
 | **ai-agents** | AI agents experimentation and prototypes | [Repo](https://github.com/webkhushboo/ai-agents) |
 | **collection-optimizer** | TypeScript-based optimization utilities | [Repo](https://github.com/webkhushboo/collection-optimizer) |
 | **grocery-barcode-scanner** | Barcode scanning web application | [Repo](https://github.com/webkhushboo/grocery-barcode-scanner) |
-| **neetcode-submissions** | DSA problem-solving practice | [Repo](https://github.com/webkhushboo/neetcode-submissions) |
 
 ---
 
