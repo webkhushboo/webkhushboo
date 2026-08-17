@@ -102,13 +102,13 @@ CI/CD Pipelines  ·  Docker & Cloud     ·  GenAI & AI Agents ·  MCP Tools
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=webkhushboo&theme=tokyonight" alt="Profile Details" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=webkhushboo&theme=tokyonight" alt="GitHub Stats" height="180"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=webkhushboo&theme=tokyonight" alt="Top Languages" height="180"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=webkhushboo&theme=tokyonight" alt="GitHub Stats" height="180"/>
-<img src="https://streak-stats.demolab.com/?user=webkhushboo&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=webkhushboo&theme=tokyonight&utcOffset=5.5" alt="Productive Time" height="180"/>
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=webkhushboo&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
 
 </div>
 
